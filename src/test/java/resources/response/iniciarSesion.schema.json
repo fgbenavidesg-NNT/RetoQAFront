@@ -1,0 +1,10 @@
+
+{
+  "200": {
+  "message": "#string",
+  "authorization": "#string"
+  },
+  "400": {
+  "email": "#string"
+  }
+}
