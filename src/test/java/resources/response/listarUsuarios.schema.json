@@ -1,7 +1,0 @@
-{
-  "200": {
-    "quantidade": "#number",
-    "usuarios": "#[] usuarioSchema"
-  }
-  
-}
